@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kwanele Sishi</h1>
 <h3 align="center">A passionate Software Developer student from South Africa</h3>
 
-- 🌱 I’m currently learning **Software development, App development and Distributed Systems**
+- 🌱 I’m currently learning **Software development, App development, Distributed Systems and Internet Programming.**
 
 - 📫 How to reach me **kwanelesishi050509@gmail.com**
 
